@@ -1,5 +1,6 @@
 ### Olá sou Susana Fernandes 🤝😄
 
+## 🔗 Links
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Susanati/Susanati)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://istagram.com/susanafernandessil)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/susanafernandesdasilva/)
@@ -7,6 +8,7 @@
 ![Susana Fernandes GitHub stats](https://github-readme-stats.vercel.app/api?username=Susanati&show_icons=true&theme=tokyonight)
 
 
+## 🛠 Habilidades
 ### Tecnologias do Meu Dia a Dia 💻🖱️📚📊
 
 <div style="display: inline_block"><br/>
@@ -18,7 +20,6 @@
 <img olign="center" alt="Python" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>   
 <img olign="center" alt="Python" src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white"/>
 </div>   
-
 
 ### Apaixonada por tecnologia, Analise e Placas embargadas.
 
