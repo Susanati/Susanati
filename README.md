@@ -20,9 +20,9 @@
 <img olign="center" alt="Python" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>   
 <img olign="center" alt="Python" src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white"/>
 <img https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white
-</div> 
-
-
+ 
+<img https://user-images.githubusercontent.com/92809543/147506898-cf34755f-ee0d-484e-8239-cb1ecb4982e4.png/>
+</div>
 
 
 
