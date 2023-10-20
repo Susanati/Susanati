@@ -19,16 +19,12 @@
 <img olign="center" alt="Python" src="https://img.shields.io/badge/micro:bit-00ED00?style=for-the-badge&logo=micro:bit&logoColor=white"/>
 <img olign="center" alt="Python" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>   
 <img olign="center" alt="Python" src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white"/>
-</div>   
-
-### Apaixonada por tecnologia, Analise e Placas embargadas.
-
-### Trabalho com Arduino 🌱💦💻
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Susanati/irriga-o.automatizada.arduino)
+<img https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white
+</div> 
 
 
-### Alguns projetos com Robótica 🤖
 
-[![tiktok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@susanafernandess34)
+
+
+
 
